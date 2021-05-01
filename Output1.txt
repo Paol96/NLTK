@@ -1,0 +1,148 @@
+Il file OperetteMorali.txt contiene 88060 token.
+Il file ThePoemsOfLeopardi.txt contiene 34587 token.
+OperetteMorali.txt ha più token di ThePoemsOfLeopardi.txt
+
+
+Il file OperetteMorali.txt contiene 4166.0 frasi.
+Il file ThePoemsOfLeopardi.txt contiene 1119.0 frasi.
+OperetteMorali.txt ha più frasi di ThePoemsOfLeopardi.txt
+
+
+Il file OperetteMorali.txt ha una lunghezza media delle frasi di 21.13778204512722 token.
+Il file ThePoemsOfLeopardi.txt ha una lunghezza media delle frasi di 30.908847184986595 token.
+Il file ThePoemsOfLeopardi.txt ha una maggiore lunghezza media delle frasi rispetto al OperetteMorali.txt
+
+
+Il file OperetteMorali.txt ha una lunghezza media delle parole di 4.073677038382921 caratteri.
+Il file ThePoemsOfLeopardi.txt ha una lunghezza media delle parole di 3.7627721398213203 caratteri.
+Il file OperetteMorali.txt ha una lunghezza media delle parole maggiore al file ThePoemsOfLeopardi.txt
+
+
+
+
+- INCREMENTO DEL VOCABOLARIO OGNI 1000 TOKEN -
+
+OperetteMorali.txt 	 ThePoemsOfLeopardi.txt
+ - 473                  - 459                 
+ - 789                  - 857                 
+ - 1052                 - 1159                
+ - 1368                 - 1389                
+ - 1609                 - 1604                
+ - 1815                 - 1794                
+ - 2048                 - 1989                
+ - 2288                 - 2189                
+ - 2501                 - 2369                
+ - 2667                 - 2525                
+ - 2841                 - 2673                
+ - 3019                 - 2818                
+ - 3172                 - 2943                
+ - 3330                 - 3028                
+ - 3458                 - 3151                
+ - 3561                 - 3261                
+ - 3683                 - 3331                
+ - 3824                 - 3471                
+ - 3964                 - 3565                
+ - 4103                 - 3667                
+ - 4250                 - 3749                
+ - 4343                 - 3844                
+ - 4431                 - 3916                
+ - 4510                 - 4022                
+ - 4580                 - 4109                
+ - 4659                 - 4192                
+ - 4730                 - 4292                
+ - 4866                 - 4366                
+ - 4972                 - 4528                
+ - 5074                 - 4672                
+ - 5152                 - 4780                
+ - 5221                 - 4869                
+ - 5281                 - 4972                
+ - 5366                 - 5092                
+
+
+
+
+- INCREMENTO DEGLI HAPAX OGNI 1000 TOKEN -
+
+OperetteMorali.txt 	 ThePoemsOfLeopardi.txt
+ - 368                  - 359                 
+ - 579                  - 663                 
+ - 760                  - 850                 
+ - 989                  - 957                 
+ - 1148                 - 1077                
+ - 1282                 - 1173                
+ - 1437                 - 1279                
+ - 1604                 - 1400                
+ - 1732                 - 1493                
+ - 1821                 - 1561                
+ - 1926                 - 1631                
+ - 2006                 - 1712                
+ - 2087                 - 1778                
+ - 2178                 - 1807                
+ - 2245                 - 1865                
+ - 2277                 - 1919                
+ - 2319                 - 1946                
+ - 2407                 - 2029                
+ - 2499                 - 2080                
+ - 2581                 - 2140                
+ - 2667                 - 2167                
+ - 2701                 - 2197                
+ - 2741                 - 2225                
+ - 2771                 - 2292                
+ - 2793                 - 2330                
+ - 2828                 - 2348                
+ - 2861                 - 2397                
+ - 2923                 - 2422                
+ - 2956                 - 2524                
+ - 3007                 - 2624                
+ - 3043                 - 2672                
+ - 3069                 - 2709                
+ - 3081                 - 2761                
+ - 3126                 - 2832                
+
+
+Il rapporto tra Sostantivi e Verbi del file OperetteMorali.txt è 1.3983064516129031
+Il rapporto tra Sostantivi e Verbi del file ThePoemsOfLeopardi.txt è 2.3674172185430464
+
+
+
+
+- 10 PoS PIÙ FREQUENTI -
+
+	 OperetteMorali.txt 				 ThePoemsOfLeopardi.txt
+ - NN                   : 11056                - NN                   : 5444                
+ - IN                   : 10562                - ,                    : 4259                
+ - DT                   : 7217                 - IN                   : 3334                
+ - ,                    : 6181                 - DT                   : 2766                
+ - JJ                   : 5828                 - JJ                   : 2540                
+ - PRP                  : 5292                 - NNP                  : 1758                
+ - RB                   : 4761                 - NNS                  : 1731                
+ - .                    : 4159                 - CC                   : 1558                
+ - NNS                  : 3987                 - RB                   : 1439                
+ - CC                   : 3847                 - .                    : 1123                
+
+
+
+
+- 10 BIGRAMMI DI PoS CON PROBABILITÀ CONDIZIONATA MASSIMA -
+
+	 OperetteMorali.txt 				 ThePoemsOfLeopardi.txt
+ - NN  NN      : 1.5762993548727875             - NN  NN      : 2.477481643048288   
+ - NN  IN      : 1.5058677447690285             - NN  ,       : 1.938206156822678   
+ - IN  NN      : 1.5058677447690285             - ,   NN      : 1.938206156822678   
+ - IN  IN      : 1.4385831331630319             - NN  IN      : 1.5172527182077502  
+ - NN  DT      : 1.0289573484186783             - IN  NN      : 1.5172527182077502  
+ - DT  NN      : 1.0289573484186783             - NN  DT      : 1.2587645526582596  
+ - IN  DT      : 0.9829818663167582             - DT  NN      : 1.2587645526582596  
+ - DT  IN      : 0.9829818663167582             - IN  ,       : 1.1869910593032345  
+ - NN  ,       : 0.8812505709541153             - ,   IN      : 1.1869910593032345  
+ - ,   NN      : 0.8812505709541153             - NN  JJ      : 1.1559153881966664  
+
+
+- 10 BIGRAMMI DI PoS CON FORZA ASSOCIATIVA MASSIMA -
+
+OperetteMorali.txt
+[[1.5762993548727875, ('NN', 'NN')], [1.5058677447690285, ('NN', 'IN')], [1.5058677447690285, ('IN', 'NN')], [1.4385831331630319, ('IN', 'IN')], [1.0289573484186783, ('NN', 'DT')], [1.0289573484186783, ('DT', 'NN')], [0.9829818663167582, ('IN', 'DT')], [0.9829818663167582, ('DT', 'IN')], [0.8812505709541153, ('NN', ',')], [0.8812505709541153, (',', 'NN')]]
+
+
+ThePoemsOfLeopardi.txt
+[[2.477481643048288, ('NN', 'NN')], [1.938206156822678, ('NN', ',')], [1.938206156822678, (',', 'NN')], [1.5172527182077502, ('NN', 'IN')], [1.5172527182077502, ('IN', 'NN')], [1.2587645526582596, ('NN', 'DT')], [1.2587645526582596, ('DT', 'NN')], [1.1869910593032345, ('IN', ',')], [1.1869910593032345, (',', 'IN')], [1.1559153881966664, ('NN', 'JJ')]]
