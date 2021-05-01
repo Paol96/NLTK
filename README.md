@@ -11,7 +11,7 @@ sito del Progetto Gutenberg (http://www.gutenberg.org/ebooks/).
 Sviluppate due programmi che prendono in input i due file da riga di comando, che li analizzano
 linguisticamente fino al Part-of-Speech tagging e che eseguono le operazioni richieste.
 
-Confrontate i due testi sulla base delle seguenti informazioni statistiche:
+Confrontate i due testi sulla base delle seguenti informazioni statistiche: <br>
  il numero totale di frasi e di token;
  la lunghezza media delle frasi in termini di token e la lunghezza media delle parole in
 termini di caratteri;
