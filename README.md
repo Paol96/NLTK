@@ -8,7 +8,7 @@ sulla base degli indici statistici richiesti ed estrarne le informazioni richies
 # Fasi realizzative:
 Scegliete e scaricate in formato di testo semplice utf-8 due libri a scelta tra quelli che trovate nel
 sito del Progetto Gutenberg (http://www.gutenberg.org/ebooks/).
-Sviluppate due programmi che prendono in input i due file da riga di comando, che li analizzano
+Sviluppate un programma che prenda in input i due file da riga di comando, che li analizzano
 linguisticamente fino al Part-of-Speech tagging e che eseguono le operazioni richieste.
 
 Confrontate i due testi sulla base delle seguenti informazioni statistiche: <br>
